@@ -26,7 +26,7 @@ addon_info = {
 	"addon_description": _("""This addon adds a Braille Chart to NVDA for use in Excel to help visualize a dataset.
 It requires a Braille display to be useful."""),
 	# version
-	"addon_version": "0.1",
+	"addon_version": "0.2",
 	# Author(s)
 	"addon_author": "Travis Roth <travis@travisroth.com>",
 	# URL for the add-on documentation support

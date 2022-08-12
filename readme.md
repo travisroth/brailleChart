@@ -1,7 +1,7 @@
 # Braille Chart Addon for NVDA
 
 * Author: Travis Roth
-* NVDA compatibility: 2021.1
+* NVDA compatibility: 2022.2
 * [Download brailleChart][1]
 
 The Braille Chart addon for [NVDA][4] adds the feature to display a data series as a line graph on a refreshable Braille display. Note: this addon won't be useful without a Braille display.
