@@ -46,7 +46,7 @@ Finally, as a convenience for orientation Braille Chart inserts a full Braille s
 ⣀⡀⡀⡀⡠⡠⢄⠤⠄⣿⠔⠒⠊⠉⠑⠢⢄⣀⢀⣿
 
 
-[1]: https://github.com/travisroth/brailleChart/releases/download/0.1/brailleChart-0.1.nvda-addon
+[1]: https://github.com/travisroth/brailleChart/releases/download/v0.2/brailleChart-0.2.nvda-addon
 
 [2]: https://addons.nvda-project.org/addons/AudioChart.en.html
 
